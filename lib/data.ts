@@ -25,19 +25,19 @@ export const projectsData = [
   {
     title: "Lithium-Ion Battery State of Health Estimation",
     description:
-      "Built a predictive analytics solution for battery degradation trends using real-time sensor data and ML models.",
+      "Built a predictive analytics app for battery degradation trends using real sensor data and ML models.",
     tags: ["Python", "FastAPI", "React", "Arduino"],
     imageUrl: mlAlgoVisualiser,
-    githubUrl: '',
+    githubUrl: 'https://github.com/hamdankhan1208/DDSoHE_Lithium',
     liveUrl: ''
   },
   {
     title: "PakWheels ETL Pipeline",
     description:
-      "Containerized an end-to-end data pipeline with Docker Compose, processed raw data via Apache Spark, and stored optimized Parquet files to reduce query latency.",
+      "Containerized an end-to-end data pipeline with Docker Compose, processed raw data via Spark, and stored optimized files.",
     tags: ["Docker", "Apache Spark", "Airflow", "Parquet"],
     imageUrl: blogDown,
-    githubUrl: '',
+    githubUrl: 'https://github.com/hamdankhan1208/PakWheels_ETL_Pipeline',
     liveUrl: ''
   },
   {
