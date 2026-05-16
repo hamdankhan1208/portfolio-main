@@ -45,7 +45,7 @@ export default function About() {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 mt-3 justify-center sm:justify-start">
               <a
-                href="/CV_Hamdan_Abdollah_Khan.pdf"
+                href="/Hamdan_Abdollah_Khan_CV_2026-05-15.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-full border border-white/20 bg-black px-5 py-2 text-sm font-semibold text-white transition hover:border-white"
